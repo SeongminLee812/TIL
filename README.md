@@ -4,7 +4,7 @@
 
 ## Why Git & Github?
 
-![Git로고](TIL_Day_01.assets/168756716-68f9aebb-380f-4897-8141-78d8403f6113.png)
+![Git로고](https://git-scm.com/images/logos/2color-lightbg@2x.png)
 
 ### Git
 
